@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 07f82fae-1234-9c12-55db-388eb85fa7a1
 resourcetype: Document
 title: Eyewitness testimony
 uid: 3cf5c532-f751-9fa6-b54b-5fec3ac5f6a1

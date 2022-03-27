@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 07f82fae-1234-9c12-55db-388eb85fa7a1
 resourcetype: Document
 title: 'Writing a paper: style at a glance'
 uid: 5a73a44e-eb0e-032e-262d-d42e28d71575

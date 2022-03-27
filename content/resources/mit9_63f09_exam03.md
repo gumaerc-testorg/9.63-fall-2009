@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: da05a14a-17a5-b615-dc61-b5189b09dafb
 resourcetype: Document
 title: Mid Term Fall 2008 Exam with answer key
 uid: 306c3510-e1da-4802-1711-1b24c7041a0d

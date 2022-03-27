@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 07f82fae-1234-9c12-55db-388eb85fa7a1
 resourcetype: Document
 title: Issue Spotter - Prototypes
 uid: d495ab61-418a-9658-64cb-c24bbca13cfe

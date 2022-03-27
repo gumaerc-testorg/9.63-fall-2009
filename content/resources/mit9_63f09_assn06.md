@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 07f82fae-1234-9c12-55db-388eb85fa7a1
 resourcetype: Document
 title: Spatial cueing
 uid: 7f1fb11c-2973-8a4f-bdf6-8e5093064282

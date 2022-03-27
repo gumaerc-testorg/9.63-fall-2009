@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 07f82fae-1234-9c12-55db-388eb85fa7a1
 resourcetype: Document
 title: Writing A Scientific Paper
 uid: 46200f03-1231-2008-a8bb-de5f98389e4c
