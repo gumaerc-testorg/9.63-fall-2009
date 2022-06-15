@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information and references for class exercises,
+  written assignments, and oral presentations for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,11 +12,11 @@ uid: 07f82fae-1234-9c12-55db-388eb85fa7a1
 References
 ----------
 
-Writing a paper: style at a glance (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_63f09_assn01))
+Writing a paper: style at a glance ({{% resource_link 5a73a44e-eb0e-032e-262d-d42e28d71575 "PDF" %}})
 
-Writing a scientific paper ([PDF]({{< baseurl >}}/resources/mit9_63f09_assn05))
+Writing a scientific paper ({{% resource_link 46200f03-1231-2008-a8bb-de5f98389e4c "PDF" %}})
 
-Giving a short: guideline for slides ([PDF]({{< baseurl >}}/resources/mit9_63f09_assn03))
+Giving a short: guideline for slides ({{% resource_link 5eab87dd-a74d-8cb5-4435-d5d9eec5f225 "PDF" %}})
 
 [Transition Words - Words that you should use for linking ideas](http://larae.net/write/transition.html)
 
@@ -47,11 +49,11 @@ The CogLab procedure consists of running the experiment on a Mac or PC and savin
 *   Conclusion
 *   References
 
-CogLab 2: Issue Spotter assignment 1 with answer key ([PDF]({{< baseurl >}}/resources/mit9_63f09_assn06))
+CogLab 2: Issue Spotter assignment 1 with answer key ({{% resource_link 7f1fb11c-2973-8a4f-bdf6-8e5093064282 "PDF" %}})
 
-CogLab 3: Issue Spotter assignment 2 with answer key ([PDF]({{< baseurl >}}/resources/mit9_63f09_assn07))
+CogLab 3: Issue Spotter assignment 2 with answer key ({{% resource_link 3cf5c532-f751-9fa6-b54b-5fec3ac5f6a1 "PDF" %}})
 
-CogLab 3: Issue Spotter assignment 3: Prototypes ([PDF]({{< baseurl >}}/resources/mit9_63f09_assn08))
+CogLab 3: Issue Spotter assignment 3: Prototypes ({{% resource_link d495ab61-418a-9658-64cb-c24bbca13cfe "PDF" %}})
 
 Written Assignments
 -------------------

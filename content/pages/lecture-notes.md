@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with a selection of lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -41,9 +43,9 @@ Single factor design
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit9_63f09_lec01))
+({{% resource_link 5be166f0-712a-1ab9-d647-9d13de954fc7 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit9_63f09_lec02))
+({{% resource_link b96533aa-82e3-6466-27e0-52a0cda58124 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -65,9 +67,9 @@ Statistical test: t-test
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit9_63f09_lec03))
+({{% resource_link db92e2fb-140e-a77d-5b1a-30a78f0da154 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit9_63f09_lec04))
+({{% resource_link 4dbd5ab7-2971-e979-506b-26c29b80deba "PDF" %}})
 
 
 {{< tdclose >}}
@@ -81,7 +83,7 @@ Statistical test: t-test
 Factor design I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_63f09_lec05))
+({{% resource_link 1173cf7f-efdb-a70d-a492-be0b62a60972 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Factor design I
 Factorial design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_63f09_lec07))
+({{% resource_link 441af88e-8931-6fec-97af-22c6c642be67 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +125,7 @@ Change blindness
 ANOVA
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_63f09_lec10))
+({{% resource_link 147823a5-905d-39cc-6238-e14710c2e160 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +137,7 @@ ANOVA
 Paradigms of perception
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_63f09_lec11))
+({{% resource_link 39d6a0a2-a96a-1c30-bd35-d7f37a3093ff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +149,7 @@ Paradigms of perception
 Divided attention
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit9_63f09_lec12))
+({{% resource_link 3abce425-aacf-594d-b080-cf5dbc3587f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
