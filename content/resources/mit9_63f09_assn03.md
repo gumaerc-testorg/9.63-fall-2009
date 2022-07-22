@@ -5,6 +5,7 @@ file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/5eab87dda74d8cb5443
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: A 10 min talk
 uid: 5eab87dd-a74d-8cb5-4435-d5d9eec5f225
 ---
 Guideline for creating a slides presentation for a short oral presentation.
-

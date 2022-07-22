@@ -6,6 +6,7 @@ file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/2463190e23559531700
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Other Sample Exam Questions
 uid: 2463190e-2355-9531-7008-584729043ed6
 ---
 Sample exam questions on experimental methods in human perception and cognition.
-

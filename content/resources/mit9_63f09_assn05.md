@@ -5,6 +5,7 @@ file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/46200f0312312008a8b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Writing A Scientific Paper
 uid: 46200f03-1231-2008-a8bb-de5f98389e4c
 ---
 Guidelines on writing a scientific paper.
-

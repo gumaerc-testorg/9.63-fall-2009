@@ -6,6 +6,7 @@ file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/d495ab61418a965864c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Issue Spotter - Prototypes
 uid: d495ab61-418a-9658-64cb-c24bbca13cfe
 ---
 Lab assignment on the experimental design of an investigation of the concept of prototypes.
-

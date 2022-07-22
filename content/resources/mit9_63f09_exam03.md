@@ -6,6 +6,7 @@ file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/306c3510e1da4802171
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mid Term Fall 2008 Exam with answer key
 uid: 306c3510-e1da-4802-1711-1b24c7041a0d
 ---
 Solutions to a midterm exam on experimental methods in human perception and cognition.
-
