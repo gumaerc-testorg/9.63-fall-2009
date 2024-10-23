@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on writing a scientific paper.
-file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/46200f0312312008a8bbde5f98389e4c_MIT9_63F09_assn05.pdf
+file: /ol-ocw-studio-app/courses/9-63-laboratory-in-visual-cognition-fall-2009/46200f0312312008a8bbde5f98389e4c_MIT9_63F09_assn05.pdf
 file_size: 99732
 file_type: application/pdf
 learning_resource_types:
