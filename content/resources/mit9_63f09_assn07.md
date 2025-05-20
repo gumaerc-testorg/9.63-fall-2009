@@ -2,7 +2,7 @@
 content_type: resource
 description: Lab assignment on the experimental design of an investigation of eyewitness
   testimony and the problem of false identification.
-file: /ol-ocw-studio-app/courses/9-63-laboratory-in-visual-cognition-fall-2009/3cf5c532f7519fa6b54b5fec3ac5f6a1_MIT9_63F09_assn07.pdf
+file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/3cf5c532f7519fa6b54b5fec3ac5f6a1_MIT9_63F09_assn07.pdf
 file_size: 49167
 file_type: application/pdf
 learning_resource_types:
