@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a midterm exam on experimental methods in human perception
   and cognition.
-file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/15b82343b9132694a3f24cf9896f3961_MIT9_63F09_exam01.pdf
+file: /ol-ocw-studio-app/courses/9-63-laboratory-in-visual-cognition-fall-2009/15b82343b9132694a3f24cf9896f3961_MIT9_63F09_exam01.pdf
 file_size: 139627
 file_type: application/pdf
 learning_resource_types:

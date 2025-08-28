@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guideline for creating a slides presentation for a short oral presentation.
-file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/5eab87dda74d8cb54435d5d9eec5f225_MIT9_63F09_assn03.pdf
+file: /ol-ocw-studio-app/courses/9-63-laboratory-in-visual-cognition-fall-2009/5eab87dda74d8cb54435d5d9eec5f225_MIT9_63F09_assn03.pdf
 file_size: 21270
 file_type: application/pdf
 learning_resource_types:
