@@ -18,9 +18,9 @@ Writing a scientific paper ({{% resource_link 46200f03-1231-2008-a8bb-de5f98389e
 
 Giving a short: guideline for slides ({{% resource_link 5eab87dd-a74d-8cb5-4435-d5d9eec5f225 "PDF" %}})
 
-[Transition Words - Words that you should use for linking ideas](http://larae.net/write/transition.html)
+{{% resource_link "9f659784-845c-4ebd-929f-5f2efb4150c0" "Transition Words - Words that you should use for linking ideas" %}}
 
-[A good selection of Web Resources](http://www.scholarpedia.org/article/Main_Page)
+{{% resource_link "289d0503-778f-4a1f-876f-58ba3bd6c3ce" "A good selection of Web Resources" %}}
 
 Description of Assignments
 --------------------------
