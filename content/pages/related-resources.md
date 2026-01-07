@@ -12,7 +12,8 @@ uid: 580748bd-1dea-9228-1337-2eec47e2f3b9
 Variables and Controls - Signal Detection Theory
 ------------------------------------------------
 
-Interactive program: {{% resource_link "8b4f6277-f460-4adb-b681-1da550b1caef" "The WISE Project's Signal Theory Tutorial" %}}
+Interactive program: [The WISE Project's Signal Theory Tutorial](http://wise.cgu.edu/wise-tutorials/tutorial-signal-detection-theory/
+)
 
 Single Factor Design and Statistics: t-test
 -------------------------------------------
@@ -21,7 +22,7 @@ Exercise: Picture memory - data. Example of data for a yes/no memory task, with 
 
 t-test table ({{% resource_link cca0bde2-57bd-6ed6-71c3-07c5f8dc0cf9 "PDF" %}})
 
-{{% resource_link "035d668b-f7c1-4fdc-a8a7-b6ecd5ead585" "t-test online" %}}
+[t-test online](http://www.quantitativeskills.com/sisa/statistics/t-test.htm)
 
 T-test excel demo ({{% resource_link 79c04c43-499f-05b6-59e7-16df461bfc8e "PDF" %}}) (A spreadsheet illustrating how to carry out t-tests in excel. Courtesy of Ruth Rosenholtz. Used with permission.)
 
@@ -38,6 +39,6 @@ Ten secrets to giving a good scientific talk ({{% resource_link e3789ab7-34a5-ac
 MATLAB® Tutorial
 ----------------
 
-{{% resource_link "6406d8a1-88d7-4805-aee5-a2f7181a1e16" "Psychophysics Toolbox" %}}
+[Psychophysics Toolbox](http://psychtoolbox.org/)
 
 Brainard, D. H. "The Psychophysics Toolbox." _Spatial Vision_ 10 (1997): 433-436.
